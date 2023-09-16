@@ -13,11 +13,11 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="ImGui Files">
-      <UniqueIdentifier>{2680daf7-cf05-4a63-a243-63ff5a33a38d}</UniqueIdentifier>
-    </Filter>
     <Filter Include="glad Files">
       <UniqueIdentifier>{83ee9b3f-a0de-44c6-bddb-0747144fd818}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ImGui Files">
+      <UniqueIdentifier>{2680daf7-cf05-4a63-a243-63ff5a33a38d}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>

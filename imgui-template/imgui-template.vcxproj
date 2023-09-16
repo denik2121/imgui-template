@@ -48,7 +48,7 @@
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{465539c1-59bf-4417-8eb6-92ab94323118}</ProjectGuid>
-    <RootNamespace>smitestats</RootNamespace>
+    <RootNamespace>imgui-template</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
